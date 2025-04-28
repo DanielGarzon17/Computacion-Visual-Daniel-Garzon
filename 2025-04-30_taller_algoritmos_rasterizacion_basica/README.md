@@ -19,10 +19,20 @@ Este proyecto presenta la implementación manual de algunos algoritmos fundament
 A lo largo del proyecto se generaron las siguientes figuras:
 
 - Una línea roja utilizando el algoritmo de Bresenham entre los puntos (20, 20) y (180, 120).
+  ![linea](https://github.com/user-attachments/assets/74fa2bf9-efbc-462c-9aef-b61f34d2b800)
+
 - Un círculo azul centrado en (100, 100) con un radio de 40 píxeles utilizando el algoritmo de punto medio.
+  ![circulo](https://github.com/user-attachments/assets/e7d34d8b-9777-4ba2-8de4-5ebc1386148f)
+
 - Un triángulo verde relleno definido por los vértices (30, 50), (100, 150) y (160, 60) usando rasterización por scanline.
+  ![triangle](https://github.com/user-attachments/assets/ee1fac15-36af-4594-a265-2f50c0eb92a9)
+
 
 Cada figura fue graficada usando `matplotlib` para visualizar los resultados finales.
+
+
+![image](https://github.com/user-attachments/assets/295de252-dfb6-4cbf-82a8-f57a30ec7052)
+
 
 ---
 
