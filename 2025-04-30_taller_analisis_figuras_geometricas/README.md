@@ -112,7 +112,7 @@ Una parte interesante fue la integración de diferentes etapas (binarización, d
 
 ## ✅ Checklist de Entrega
 
-- [x] Carpeta `2025-05-02_analisis_figuras`
+- [x] Carpeta `2025-04-30_analisis_figuras`
 - [x] Código limpio y funcional
 - [ ] GIF incluido con nombre descriptivo (no requerido)
 - [x] Visualizaciones o métricas exportadas
