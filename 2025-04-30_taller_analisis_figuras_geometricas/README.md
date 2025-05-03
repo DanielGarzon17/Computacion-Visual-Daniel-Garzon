@@ -36,20 +36,15 @@ Detectar formas simples (contornos) en imágenes binarizadas y calcular propieda
 
 ```
 2025-05-02_analisis_figuras/
-├── entorno/python/
-├── datos/
-│   ├── moto.jpg
-│   ├── figuras_binarias.png
+├─
+├── python/ 
+│   ├── img/moto.jpg
+│   ├── taller_analisis_figuras_geometricas.ipynb
 ├── resultados/
 │   ├── binarizada.jpg
 │   ├── contornos.jpg
 │   ├── contornosetiquetados.jpg
 ├── README.md
-```
-
-📎 Sigue la estructura de entregas descrita en la [guía GitLab](./guia_gitlab_computacion_visual.md)
-
----
 
 ## 🧪 Implementación
 
@@ -63,7 +58,6 @@ Detectar formas simples (contornos) en imágenes binarizadas y calcular propieda
 ### 🔹 Código relevante
 
 ```python
-# Etiquetado de contornos con área, perímetro y centroide
 for contour in found_contours:
     area = cv2.contourArea(contour)
     perimeter = cv2.arcLength(contour, True)
@@ -80,11 +74,9 @@ for contour in found_contours:
 
 ## 📊 Resultados Visuales
 
-```markdown
 ![Binarizada](./resultados/binarizada.jpg)
 ![Contornos Detectados](./resultados/contornos.jpg)
 ![Contornos Etiquetados](./resultados/contornosetiquetados.jpg)
-```
 
 > ❌ Este taller no requiere GIF, pero se incluyen capturas de los resultados intermedios.
 
