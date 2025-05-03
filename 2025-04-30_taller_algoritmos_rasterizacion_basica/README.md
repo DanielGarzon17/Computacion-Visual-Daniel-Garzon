@@ -96,8 +96,7 @@ def bresenham(x0, y0, x1, y1, draw_pixel):
 ## 🧩 Prompts Usados
 
 ```text
-"Traduce las explicaciones técnicas al inglés en formato Markdown"
-"Resume cada paso de implementación siguiendo una plantilla académica"
+"You are an expert in Visual Computing. Research the Bresenham algorithm and explain how this code works. Help me create a README file following the provided template."
 ```
 
 ---
