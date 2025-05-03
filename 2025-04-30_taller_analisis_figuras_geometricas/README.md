@@ -89,8 +89,6 @@ for contour in found_contours:
 "Generate a Python project using OpenCV that loads a grayscale image, binarizes it, detects contours, calculates area, perimeter, and centroid for each shape, labels them on the image, and saves the outputs with clear visualization and markdown explanations."
 ```
 
-📎 Usa buenas prácticas de prompts según la [guía de IA actualizada](./guia_prompts_inteligencias_artificiales_actualizada.md)
-
 ---
 
 ## 💬 Reflexión Final
@@ -101,13 +99,7 @@ Una parte interesante fue la integración de diferentes etapas (binarización, d
 
 ---
 
-## 👥 Contribuciones Grupales (si aplica)
-
-```markdown
-- Implementación de la lógica de detección de contornos
-- Cálculo y visualización de métricas geométricas
-- Generación y organización de resultados
-```
+## 👥 Contribuciones Grupales (No aplica)
 
 ---
 
