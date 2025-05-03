@@ -85,12 +85,11 @@ def bresenham(x0, y0, x1, y1, draw_pixel):
 
 > ❌ No se incluye un GIF en esta implementación (solo imágenes estáticas).
 
-```markdown
 ![line](https://github.com/user-attachments/assets/74fa2bf9-efbc-462c-9aef-b61f34d2b800)
 ![circle](https://github.com/user-attachments/assets/e7d34d8b-9777-4ba2-8de4-5ebc1386148f)
 ![triangle](https://github.com/user-attachments/assets/ee1fac15-36af-4594-a265-2f50c0eb92a9)
 ![resultados_finales](https://github.com/user-attachments/assets/295de252-dfb6-4cbf-82a8-f57a30ec7052)
-```
+
 
 ---
 
