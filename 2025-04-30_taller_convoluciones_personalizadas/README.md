@@ -64,7 +64,7 @@ The output includes side-by-side panels for:
 - Custom filter outputs
 - OpenCV filter outputs
 
-![Gif comparision](https://github.com/user-attachments/assets/e44a4dfd-bafc-4c0c-b946-b0a1c6e874b4)
+![gif](https://github.com/DanielGarzon17/Computacion-Visual-Daniel-Garzon/blob/main/2025-04-30_taller_convoluciones_personalizadas/python/filters_comparison.gif?raw=true)
 
 
 ---
