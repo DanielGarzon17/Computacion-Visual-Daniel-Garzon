@@ -45,6 +45,7 @@ Detectar formas simples (contornos) en imágenes binarizadas y calcular propieda
 │   ├── contornos.jpg
 │   ├── contornosetiquetados.jpg
 ├── README.md
+```
 
 ## 🧪 Implementación
 
