@@ -77,7 +77,7 @@ This workshop explores two different approaches to 3D model visualization and co
 ## 📊 Visual Results
 
 ### Three.js
-![image result](image.png)
+![Three.js 3D Model Render Result](image.png)
 
 ### Python
 ![Python Result 1](python/resultado/PythonMuestra1.gif)
