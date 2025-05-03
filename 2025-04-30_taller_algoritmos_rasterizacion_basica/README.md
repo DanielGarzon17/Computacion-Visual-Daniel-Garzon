@@ -116,7 +116,7 @@ El algoritmo de Bresenham demostró gran eficiencia al trabajar únicamente con 
 
 ## ✅ Checklist de Entrega
 
-- [x] Carpeta `2025-05-02_algoritmos_dibujo`
+- [x] Carpeta `2025-04-30_taller_algoritmos_rasterizacion_basica`
 - [x] Código limpio y funcional
 - [ ] GIF incluido con nombre descriptivo (no requerido en esta versión)
 - [x] Visualizaciones exportadas en PNG
