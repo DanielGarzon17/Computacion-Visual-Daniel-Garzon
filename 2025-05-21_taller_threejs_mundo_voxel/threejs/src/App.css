@@ -6,18 +6,22 @@
 
 body {
   overflow: hidden;
+  margin: 0;
+  padding: 0;
 }
 
 canvas {
   width: 100%;
   height: 100%;
+  display: block;
 }
 
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 .logo {
@@ -57,11 +61,13 @@ canvas {
 }
 
 .app-container {
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   background: #ffffff;
   overflow: hidden;
   position: relative;
+  margin: 0;
+  padding: 0;
 }
 
 /* Side Menu Styles */
