@@ -58,12 +58,14 @@ The output includes side-by-side panels for:
 
 - Original image
 
-![alt text](../Computacion-Visual-Daniel-Garzon/2025-04-30_taller_convoluciones_personalizadas/python/carro.jpg)
+![image](https://github.com/user-attachments/assets/45be6836-0918-4768-abee-bfb14aabe1d3)
+
 
 - Custom filter outputs
 - OpenCV filter outputs
 
-![Gif comparision](../Computacion-Visual-Daniel-Garzon/2025-04-30_taller_convoluciones_personalizadas/python/filters_comparison.gif)
+![gif](https://github.com/DanielGarzon17/Computacion-Visual-Daniel-Garzon/blob/main/2025-04-30_taller_convoluciones_personalizadas/python/filters_comparison.gif?raw=true)
+
 
 ---
 
